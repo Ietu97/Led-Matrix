@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LED Matrix</string>
+    <string name="ena_bt">Enable Bluetooth</string>
+    <string name="src_dev">Search devices</string>
+    <string name="name">Device name</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting</string>
+    <string name="send">Send</string>
+    <string name="OFF">OFF</string>
+    <string name="ON">ON</string>
+    <string name="brightness">Brightness</string>
+    <string name="color_input">Color input</string>
+</resources>
